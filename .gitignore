@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+note.txt
+stripe.exe
 
 # testing
 /coverage
@@ -26,6 +28,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
 
 # vercel
 .vercel
